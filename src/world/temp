@@ -1,0 +1,1 @@
+pos.x - (int)pos.x%16, (int)pos.z - (int)pos.z % 16

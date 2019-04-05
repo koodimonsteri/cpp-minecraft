@@ -1,0 +1,6 @@
+windowSize 1200 720
+vSync 1
+fullScreen 0
+UPS 60
+renderDistance 16
+fov 90
